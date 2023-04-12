@@ -1,0 +1,12 @@
+{
+  "name": "lvis-code-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine spec/test.js"
+  },
+  "author": "Heorhii Nikonov",
+  "license": "ISC",
+  "type": "module"
+}
