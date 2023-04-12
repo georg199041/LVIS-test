@@ -1,4 +1,4 @@
-# This is the job interview test task fro LVIS.
+# This is the job interview test task from LVIS.
 
 - For initial condition please check Offline Coding Assessment.pdf
 - In case you want to run tests
