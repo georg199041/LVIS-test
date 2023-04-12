@@ -7,4 +7,4 @@ and you don't have jasmine installed use this command
 - once you have jasmine use this command to run tests
 `npm test`
 
-The code of implemented function is located in index.js
+The code of implemented function located in index.js
